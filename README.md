@@ -9,5 +9,5 @@ Apart from coding, some other activities that I love to do!:
    - Portfolio Website: https://vinit-pundeer-portfolio.netlify.app/
    - Weather Website: https://vinit-weather-app.onrender.com/
    - Hackerrank Profile: https://www.hackerrank.com/vinit_pundeer123/
-   - TodoList: https://vinit-to-do-list.onrender.com
+   - TodoList: https://vinit-to-do-list.onrender.com/
 
