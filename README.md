@@ -4,6 +4,7 @@
 Apart from coding, some other activities that I love to do!:
  - Playing Games like Badminton
  - Traveling. 
+
 ### Important Links:
    - Leetcode Profile: https://leetcode.com/pundeer055/
    - Portfolio Website: https://vinit-pundeer-portfolio.netlify.app/
